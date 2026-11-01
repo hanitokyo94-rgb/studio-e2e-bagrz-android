@@ -29,8 +29,8 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: app/build/outputs/apk/release/app-release.apk
-          tag_name: v1.0.1
-          name: "اختبار الاستوديو v1.0.0"
-          body: "تطبيق اختبار الاستوديو — حمّل ملف APK وثبّته على جهازك (فعّل التثبيت من مصادر غير معروفة)."
+          tag_name: v1.0.2
+          name: "استوديو KTAI v1.0.2"
+          body: "تطبيق استوديو KTAI — حمّل ملف APK وثبّته على جهازك (فعّل التثبيت من مصادر غير معروفة)."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

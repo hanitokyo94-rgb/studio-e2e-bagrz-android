@@ -1,4 +1,4 @@
-# اختبار الاستوديو — Android APK
+# استوديو KTAI — Android APK
 
 Built with KTAI Agent 🤖
 

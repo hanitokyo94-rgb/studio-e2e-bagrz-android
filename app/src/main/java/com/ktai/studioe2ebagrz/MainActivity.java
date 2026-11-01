@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
         s.setUseWideViewPort(true);
         s.setLoadWithOverviewMode(true);
         s.setSupportZoom(false);
-        web.setBackgroundColor(Color.parseColor("#101014"));
+        web.setBackgroundColor(Color.parseColor("#14213D"));
         web.setWebViewClient(new WebViewClient());
         setContentView(web);
         web.loadUrl("file:///android_asset/www/index.html");
